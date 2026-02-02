@@ -1,0 +1,15 @@
+# n8n data
+.n8n/
+*.db
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
